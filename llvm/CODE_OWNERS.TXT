@@ -239,3 +239,7 @@ D: MinGW
 N: Zi Xuan Wu (Zeson)
 E: zixuan.wu@linux.alibaba.com
 D: C-SKY backend (lib/Target/CSKY/*)
+
+N: Obfuscator-LLVM team
+E: heroims@163.com
+D: Obfuscator
